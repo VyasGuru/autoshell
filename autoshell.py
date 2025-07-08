@@ -1,17 +1,6 @@
 #!/usr/bin/env python3
-"""
-autoshell: Minimal, safe, and pleasant CLI tool to turn natural language into shell commands using Hugging Face Inference API.
 
-Features:
-- Installs as `wtd` command.
-- Uses Hugging Face's Mistral-7B-Instruct-v0.2 to generate shell commands.
-- Prompts user to edit/confirm before execution.
-- Blocks dangerous commands.
-- Supports --dry-run.
-- Reads HF_TOKEN from environment.
-- Cross-platform (macOS/Linux).
-- Only requires Python 3 and requests.
-"""
+
 
 import os
 import sys
