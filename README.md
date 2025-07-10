@@ -1,6 +1,6 @@
 # autoshell (`wtd`)
 
-A minimal, safe, and pleasant CLI tool to turn natural language into shell commands using OpenRouter API (with deepseek/deepseek-r1-0528-qwen3-8b:free model).
+A minimal, safe, and pleasant CLI tool to turn natural language into shell commands using DeepSeek API (with deepseek/deepseek-r1-0528-qwen3-8b:free model).
 
 ## Installation
 
@@ -41,4 +41,3 @@ wtd make a file called notes.txt in my current directory
 - OpenRouter API key (get one at [https://openrouter.ai/](https://openrouter.ai/))
 
 ---
-Enjoy safe, natural-language shelling! 
